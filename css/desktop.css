@@ -1,0 +1,19 @@
+
+/* Ordinateur */
+@media screen and (min-width: 1200px) {
+ 
+    
+    .w-75{
+        width: 35% !important;
+    }
+
+    .cards {
+        display: flex;
+        width: 80%;
+        margin: auto;
+    }
+
+    footer img {
+        width: auto;
+    }
+}
